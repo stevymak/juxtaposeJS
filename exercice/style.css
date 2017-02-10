@@ -1,0 +1,14 @@
+.juxtapose{
+    margin-top: 10em;
+    margin-left: 25em;
+    height: 225px;
+    width: 45%;
+    border-radius: 20%;
+    border: 0.2 solid;
+    display: inline-block;
+
+}
+
+h3{
+    text-align: center;
+}
