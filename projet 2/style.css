@@ -1,0 +1,36 @@
+body{
+    font-family: 'Bubbler One', cursive;
+    background-image: url(http://www.elegantwallpapers.com/wp-content/wallpapers/800x480/22261_800x480.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Wallpoet', sans-serif;
+    text-align: center;
+    font-size: 72px;
+    color: #ffffff;
+    text-shadow: 3px 3px 5px white;
+}
+
+.article1{
+
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.juxtapose{
+
+    height: 369px;
+    width: 743px;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 5px 8px 7px 5px;
+}
+.juxtapose2{
+
+    height: 510px;
+    width:760px;
+    border-width: 5px 8px 7px 5px;
+}
