@@ -1,14 +1,25 @@
 .juxtapose{
-    margin-top: 10em;
-    margin-left: 25em;
-    height: 225px;
+    margin-top: 2em;
+    margin-left: 30em;
+    height: 700px;
     width: 45%;
-    border-radius: 20%;
-    border: 0.2 solid;
     display: inline-block;
+    border-radius: 20%;
+
 
 }
 
 h3{
-    text-align: center;
+    text-align: center;;
+        font-family: 'Caveat Brush', cursive;
 }
+
+section{
+    background: #4682B4;
+    border-radius: 20%;
+
+}
+
+p{
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
